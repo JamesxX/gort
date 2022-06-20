@@ -28,7 +28,7 @@
 		"nyc": "^15.1.0",
 		"prettier": "2.5.1",
 		"ts-node": "^10.7.0",
-		"typescript": "^4.5.4"
+		"typescript": "^4.7.4"
 	},
 	"dependencies": {
 		"@conversationai/perspectiveapi-js-client": "github:JamesxX/perspectiveapi-js-client#Fix-Security",
